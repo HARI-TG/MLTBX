@@ -8,4 +8,4 @@ services:
     restart: on-failure
     ports:
       - "80:80"
-      - "8070:8070"
+      - "8060:8060"
